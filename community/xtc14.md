@@ -1,5 +1,5 @@
 ### olá, sou cauã (xtc14)
-📘estou cursando analise e desenvolmento de sistemas, atualmente no segundo periodo .
+📘estou cursando analise e desenvolmento de sistemas pela [unifeso](https://www.unifeso.edu.br/),atualmente no segundo periodo .
 
 conecte-se comigo [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-couto-2848712b1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua_coouto/)
